@@ -1,0 +1,68 @@
+D:\Visual studio projects\C#\Windows Form\Decision_Tree_ID3\Decision_Tree_ID3\bin\Debug\Decision_Tree_ID3.exe.config
+D:\Visual studio projects\C#\Windows Form\Decision_Tree_ID3\Decision_Tree_ID3\bin\Debug\Decision_Tree_ID3.exe
+D:\Visual studio projects\C#\Windows Form\Decision_Tree_ID3\Decision_Tree_ID3\bin\Debug\Decision_Tree_ID3.pdb
+D:\Visual studio projects\C#\Windows Form\Decision_Tree_ID3\Decision_Tree_ID3\obj\Debug\Decision_Tree_ID3.csprojResolveAssemblyReference.cache
+D:\Visual studio projects\C#\Windows Form\Decision_Tree_ID3\Decision_Tree_ID3\obj\Debug\Decision_Tree_ID3.Properties.Resources.resources
+D:\Visual studio projects\C#\Windows Form\Decision_Tree_ID3\Decision_Tree_ID3\obj\Debug\Decision_Tree_ID3.csproj.GenerateResource.Cache
+D:\Visual studio projects\C#\Windows Form\Decision_Tree_ID3\Decision_Tree_ID3\obj\Debug\Decision_Tree_ID3.csproj.CoreCompileInputs.cache
+D:\Visual studio projects\C#\Windows Form\Decision_Tree_ID3\Decision_Tree_ID3\obj\Debug\Decision_Tree_ID3.exe
+D:\Visual studio projects\C#\Windows Form\Decision_Tree_ID3\Decision_Tree_ID3\obj\Debug\Decision_Tree_ID3.pdb
+D:\Visual studio projects\C#\Windows Form\Decision_Tree_ID3\Decision_Tree_ID3\obj\Debug\Decision_Tree_ID3.frmHome.resources
+D:\Visual studio projects\C#\Windows Form\Decision_Tree_ID3\Decision_Tree_ID3\bin\Debug\Remotion.Data.Linq.dll
+D:\Visual studio projects\C#\Windows Form\Decision_Tree_ID3\Decision_Tree_ID3\bin\Debug\Remotion.dll
+D:\Visual studio projects\C#\Windows Form\Decision_Tree_ID3\Decision_Tree_ID3\bin\Debug\Remotion.Interfaces.dll
+D:\Visual studio projects\C#\Windows Form\Decision_Tree_ID3\Decision_Tree_ID3\obj\Debug\Decision_Tree_ID3.csproj.ResolveComReference.cache
+D:\Visual studio projects\C#\Windows Form\Decision_Tree_ID3\Decision_Tree_ID3\obj\Debug\Decision_Tree_ID3.FormViewResult.resources
+C:\Users\Tran Huynh Ngoc Tien\Desktop\Decision_Tree_ID3\Decision_Tree_ID3\bin\Debug\Decision_Tree_ID3.exe.config
+C:\Users\Tran Huynh Ngoc Tien\Desktop\Decision_Tree_ID3\Decision_Tree_ID3\bin\Debug\Decision_Tree_ID3.exe
+C:\Users\Tran Huynh Ngoc Tien\Desktop\Decision_Tree_ID3\Decision_Tree_ID3\bin\Debug\Decision_Tree_ID3.pdb
+C:\Users\Tran Huynh Ngoc Tien\Desktop\Decision_Tree_ID3\Decision_Tree_ID3\bin\Debug\Remotion.Data.Linq.dll
+C:\Users\Tran Huynh Ngoc Tien\Desktop\Decision_Tree_ID3\Decision_Tree_ID3\bin\Debug\Remotion.dll
+C:\Users\Tran Huynh Ngoc Tien\Desktop\Decision_Tree_ID3\Decision_Tree_ID3\bin\Debug\Remotion.Interfaces.dll
+C:\Users\Tran Huynh Ngoc Tien\Desktop\Decision_Tree_ID3\Decision_Tree_ID3\obj\Debug\Decision_Tree_ID3.csprojResolveAssemblyReference.cache
+C:\Users\Tran Huynh Ngoc Tien\Desktop\Decision_Tree_ID3\Decision_Tree_ID3\obj\Debug\Decision_Tree_ID3.csproj.ResolveComReference.cache
+C:\Users\Tran Huynh Ngoc Tien\Desktop\Decision_Tree_ID3\Decision_Tree_ID3\obj\Debug\Decision_Tree_ID3.FormViewResult.resources
+C:\Users\Tran Huynh Ngoc Tien\Desktop\Decision_Tree_ID3\Decision_Tree_ID3\obj\Debug\Decision_Tree_ID3.frmHome.resources
+C:\Users\Tran Huynh Ngoc Tien\Desktop\Decision_Tree_ID3\Decision_Tree_ID3\obj\Debug\Decision_Tree_ID3.Properties.Resources.resources
+C:\Users\Tran Huynh Ngoc Tien\Desktop\Decision_Tree_ID3\Decision_Tree_ID3\obj\Debug\Decision_Tree_ID3.csproj.GenerateResource.Cache
+C:\Users\Tran Huynh Ngoc Tien\Desktop\Decision_Tree_ID3\Decision_Tree_ID3\obj\Debug\Decision_Tree_ID3.csproj.CoreCompileInputs.cache
+C:\Users\Tran Huynh Ngoc Tien\Desktop\Decision_Tree_ID3\Decision_Tree_ID3\obj\Debug\Decision_Tree_ID3.exe
+C:\Users\Tran Huynh Ngoc Tien\Desktop\Decision_Tree_ID3\Decision_Tree_ID3\obj\Debug\Decision_Tree_ID3.pdb
+C:\Users\Administrator\Desktop\Decision_Tree_ID3\Decision_Tree_ID3\bin\Debug\Decision_Tree_ID3.exe.config
+C:\Users\Administrator\Desktop\Decision_Tree_ID3\Decision_Tree_ID3\bin\Debug\Decision_Tree_ID3.exe
+C:\Users\Administrator\Desktop\Decision_Tree_ID3\Decision_Tree_ID3\bin\Debug\Decision_Tree_ID3.pdb
+C:\Users\Administrator\Desktop\Decision_Tree_ID3\Decision_Tree_ID3\bin\Debug\Remotion.Data.Linq.dll
+C:\Users\Administrator\Desktop\Decision_Tree_ID3\Decision_Tree_ID3\bin\Debug\Remotion.dll
+C:\Users\Administrator\Desktop\Decision_Tree_ID3\Decision_Tree_ID3\bin\Debug\Remotion.Interfaces.dll
+C:\Users\Administrator\Desktop\Decision_Tree_ID3\Decision_Tree_ID3\obj\Debug\Decision_Tree_ID3.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Decision_Tree_ID3\Decision_Tree_ID3\obj\Debug\Decision_Tree_ID3.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Decision_Tree_ID3\Decision_Tree_ID3\obj\Debug\Decision_Tree_ID3.frmHome.resources
+C:\Users\Administrator\Desktop\Decision_Tree_ID3\Decision_Tree_ID3\obj\Debug\Decision_Tree_ID3.Main.resources
+C:\Users\Administrator\Desktop\Decision_Tree_ID3\Decision_Tree_ID3\obj\Debug\Decision_Tree_ID3.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Decision_Tree_ID3\Decision_Tree_ID3\obj\Debug\Decision_Tree_ID3.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Decision_Tree_ID3\Decision_Tree_ID3\obj\Debug\Decision_Tree_ID3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Decision_Tree_ID3\Decision_Tree_ID3\obj\Debug\Decision_Tree_ID3.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Decision_Tree_ID3\Decision_Tree_ID3\obj\Debug\Decision_Tree_ID3.exe
+C:\Users\Administrator\Desktop\Decision_Tree_ID3\Decision_Tree_ID3\obj\Debug\Decision_Tree_ID3.pdb
+C:\Users\Administrator\Desktop\Decision_Tree_ID3\Decision_Tree_ID3\obj\Debug\Decision_Tree_ID3.KetQua.resources
+C:\Users\Administrator\Desktop\Decision_Tree_ID3\Decision_Tree_ID3\Decision_Tree_ID3\obj\Debug\Decision_Tree_ID3.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Decision_Tree_ID3\Decision_Tree_ID3\Decision_Tree_ID3\obj\Debug\Decision_Tree_ID3.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Decision_Tree_ID3\Decision_Tree_ID3\Decision_Tree_ID3\obj\Debug\Decision_Tree_ID3.KetQua.resources
+C:\Users\Administrator\Desktop\Decision_Tree_ID3\Decision_Tree_ID3\Decision_Tree_ID3\obj\Debug\Decision_Tree_ID3.frmHome.resources
+C:\Users\Administrator\Desktop\Decision_Tree_ID3\Decision_Tree_ID3\Decision_Tree_ID3\obj\Debug\Decision_Tree_ID3.Main.resources
+C:\Users\Administrator\Desktop\Decision_Tree_ID3\Decision_Tree_ID3\Decision_Tree_ID3\obj\Debug\Decision_Tree_ID3.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Decision_Tree_ID3\Decision_Tree_ID3\Decision_Tree_ID3\obj\Debug\Decision_Tree_ID3.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Decision_Tree_ID3\Decision_Tree_ID3\Decision_Tree_ID3\obj\Debug\Decision_Tree_ID3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Decision_Tree_ID3\Decision_Tree_ID3\Decision_Tree_ID3\obj\Debug\Decision_Tree_ID3.exe
+C:\Users\Administrator\Desktop\Decision_Tree_ID3\Decision_Tree_ID3\Decision_Tree_ID3\obj\Debug\Decision_Tree_ID3.pdb
+C:\Users\Administrator\Desktop\Decision_Tree_ID3\Decision_Tree_ID3\Decision_Tree_ID3\bin\Debug\Decision_Tree_ID3.exe.config
+C:\Users\Administrator\Desktop\Decision_Tree_ID3\Decision_Tree_ID3\Decision_Tree_ID3\bin\Debug\Decision_Tree_ID3.exe
+C:\Users\Administrator\Desktop\Decision_Tree_ID3\Decision_Tree_ID3\Decision_Tree_ID3\bin\Debug\Decision_Tree_ID3.pdb
+C:\Users\Administrator\Desktop\Decision_Tree_ID3\Decision_Tree_ID3\Decision_Tree_ID3\bin\Debug\Remotion.Data.Linq.dll
+C:\Users\Administrator\Desktop\Decision_Tree_ID3\Decision_Tree_ID3\Decision_Tree_ID3\bin\Debug\Remotion.dll
+C:\Users\Administrator\Desktop\Decision_Tree_ID3\Decision_Tree_ID3\Decision_Tree_ID3\bin\Debug\Remotion.Interfaces.dll
+C:\Users\Administrator\Desktop\Decision_Tree_ID3\Decision_Tree_ID3\Decision_Tree_ID3\obj\Debug\Decision_Tree_ID3.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Decision_Tree_ID3\Decision_Tree_ID3\Decision_Tree_ID3\bin\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\Decision_Tree_ID3\Decision_Tree_ID3\Decision_Tree_ID3\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Desktop\Decision_Tree_ID3\Decision_Tree_ID3\Decision_Tree_ID3\obj\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\Decision_Tree_ID3\Decision_Tree_ID3\Decision_Tree_ID3\obj\Debug\AxInterop.WMPLib.dll
