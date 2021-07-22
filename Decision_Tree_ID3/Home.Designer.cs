@@ -57,7 +57,7 @@
             this.label1.TabIndex = 7;
             this.label1.Text = "DECISION TREE";
             this.label1.TextAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.label1.Click += new System.EventHandler(this.label1_Click);
+            
             // 
             // btnCreateBest_ID3
             // 
@@ -105,7 +105,7 @@
             this.txtClause.Name = "txtClause";
             this.txtClause.Size = new System.Drawing.Size(161, 28);
             this.txtClause.TabIndex = 0;
-            this.txtClause.TextChanged += new System.EventHandler(this.txtClause_TextChanged);
+            
             this.txtClause.Enter += new System.EventHandler(this.txtClause_Enter);
             // 
             // btnAddClause
@@ -217,7 +217,7 @@
             this.label2.Size = new System.Drawing.Size(107, 21);
             this.label2.TabIndex = 7;
             this.label2.Text = "Nhập Dữ Liệu";
-            this.label2.Click += new System.EventHandler(this.label2_Click);
+            
             // 
             // button1
             // 

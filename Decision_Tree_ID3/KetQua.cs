@@ -44,7 +44,7 @@ namespace Decision_Tree_ID3
         private void Close_Form(object sender, FormClosedEventArgs e)
         {
             this.Close();
-        }
+        }   
 
         private void FormViewResult_Load(object sender, EventArgs e)
         {
@@ -80,11 +80,11 @@ namespace Decision_Tree_ID3
             }
         }
 
-        //Trả về I (độ lợi thông tin của nút gốc (nút từ đó chọn nút kế tiếp))
+        //Trả về Entropy nút gốc của bài toán ( từ đó chọn nút kế tiếp))
         private double Result_I_S(List<List<string>> data)
         {
             int s1 = 0, s2 = 0;
-            double infoGain = 0f;
+            double entropy = 0f;
             int numRow = data.Count();
 
             for (int i = 1; i < data[numRow - 1].Count(); i++)
@@ -95,17 +95,11 @@ namespace Decision_Tree_ID3
                     s2++;
             }
 
-            infoGain = -(1.0 * s1 / (s1 + s2)) * Math.Log(1.0 * s1 / (s1 + s2), 2f) - (1.0 * s2 / (s1 + s2)) * Math.Log(1.0 * s2 / (s1 + s2), 2f);
-            return infoGain;
+            entropy = -(1.0 * s1 / (s1 + s2)) * Math.Log(1.0 * s1 / (s1 + s2), 2) - (1.0 * s2 / (s1 + s2)) * Math.Log(1.0 * s2 / (s1 + s2), 2);
+            return entropy;
         }
 
-        //Trả về I (độ lợi thông tin của từng giá trị trong mỗi thuộc tính(Attribute))
-        private double Result_I(int s1, int s2)
-        {
-            double infoGain = 0f;
-            infoGain = -(1.0 * s1 / (s1 + s2)) * Math.Log(1.0 * s1 / (s1 + s2), 2f) - (1.0 * s2 / (s1 + s2)) * Math.Log(1.0 * s2 / (s1 + s2), 2f);
-            return infoGain;
-        }
+        
 
         //Trả về Entropy của giá trị (name) trong thuộc tính(Attribute) vị trí column
         private double Result_E(List<List<string>> data, ref Dictionary<string, bool> boolValueAttribute, int column, string name)
@@ -148,7 +142,13 @@ namespace Decision_Tree_ID3
             entropy = (1f * (s1 + s2) / (numColumn - 1)) * Result_I(s1, s2);
             return entropy;
         }
-
+        //Trả về I (độ lợi thông tin của từng giá trị trong mỗi thuộc tính(Attribute))
+        private double Result_I(int s1, int s2)
+        {
+            double infoGain = 0f;
+            infoGain = -(1.0 * s1 / (s1 + s2)) * Math.Log(1.0 * s1 / (s1 + s2), 2) - (1.0 * s2 / (s1 + s2)) * Math.Log(1.0 * s2 / (s1 + s2), 2);
+            return infoGain;
+        }
         //Trả về Gain của thuộc tính(Attribute) vị trí column
         private double Result_Gain(string node, List<List<string>> data, ref Dictionary<string, bool> boolValueAttribute, int column)
         {

@@ -47,7 +47,6 @@ namespace Decision_Tree_ID3
                     MessageBox.Show("Clause đã có trong tập Clauses", "Add clause error", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 txtClause.Clear();
             }
-
         }
 
         //Event khi nhấn Enter trong TextBox
@@ -212,16 +211,6 @@ namespace Decision_Tree_ID3
             this.Close();
         }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void txtClause_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
         private void button1_Click(object sender, EventArgs e)
         {
             DialogResult traloi = MessageBox.Show("Bạn có muốn thoát không?", "Thông báo", MessageBoxButtons.OKCancel, MessageBoxIcon.Question);
@@ -235,9 +224,6 @@ namespace Decision_Tree_ID3
             }
         }
 
-        private void label2_Click(object sender, EventArgs e)
-        {
-
-        }
+       
     }
 }
